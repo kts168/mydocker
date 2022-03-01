@@ -9,4 +9,4 @@ cd /d %~dp0
 @echo on
 git add .
 git commit -m %fixed%
-git push --set-upstream git@github.com:kts168/mydocker.git master
+git push --set-upstream git@github.com:kts168/mydocker.git main
